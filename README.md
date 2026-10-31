@@ -14,9 +14,18 @@ The Chrome Web Store requires every extension to link a public privacy policy. T
 - `privacy-policy.css` — the page styles.
 - `logo128.png` — the Carbolt logo shown on the page.
 
+## Features
+
+- One static page, publicly readable without an account.
+- No JavaScript. What you see is the whole policy, in one page.
+
 ## Tech
 
-Plain HTML and CSS. No JavaScript, no build step.
+Plain HTML and CSS. No build step.
+
+## Installation
+
+Nothing to install. The page is hosted on GitHub Pages from this repo; to preview a change locally, open `index.html` in any browser.
 
 ## Usage
 
